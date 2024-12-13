@@ -127,10 +127,10 @@
             </form>
           </div>
         </section>
-        <!-- special offer -->
+        <!-- galaxy s9 special offer -->
         <section id="s9-special-offer" class="special-offer">
           <div class="special-offer-img">
-            <img src="imgs/special_offers/cay_offer.png" alt="">
+            <img src="imgs/special_offers/s9_special_offer.png" alt="">
           </div>
           <div class="special-offer-text">
             <h2>Cay</h2>

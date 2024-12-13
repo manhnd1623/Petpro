@@ -111,53 +111,28 @@
               <div class="form-header">
                 <h2>Mật khẩu của tôi</h2>
               </div>
-              <div id="sections-container" style="width: 50%;">
-                <div class="section" style="width: 100%;">
-                  <br /><span>Mật khẩu cũ</span>
-                  <input name="old_password" type="password" minlength="4" maxlength="155" required />
-                  <br /><span>Mật khẩu mới</span>
-                  <input name="password" type="password" minlength="4" maxlength="155" required />
-                  <br /><span>Xác nhận mật khẩu mới</span>
-                  <input name="password_conf" type="password" required />
-                </div>
-              </div>
-              <button name="change_password" type="submit" class="styled-btn" onclick="validatePassword();">
-                <span>Đổi mật khẩu</span>
-              </button>
-            </form>
+           
           </div>
         </section>
-        <!-- special offer -->
+        <!-- galaxy s9 special offer -->
         <section id="s9-special-offer" class="special-offer">
           <div class="special-offer-img">
-            <img src="imgs/special_offers/cay_offer.png" alt="">
+            <img src="imgs/special_offers/s9_special_offer.png" alt="">
           </div>
           <div class="special-offer-text">
-            <h2>Cay</h2>
+            <h2>Galaxy S9</h2>
             <p>
-              With a plant that works like your eye.
+              With a camera that works like your eye.
             </p>
             <a href="article?article_id=51" class="styled-btn">
               ORDER NOW
             </a>
           </div>
         </section>
-        <!-- cay special offer -->
-        <section id="special-offer" class="special-offer">
+        <!-- airpods special offer -->
+        <section id="airpods-special-offer" class="special-offer">
           <div class="special-offer-text">
-            <h2>Cay canh</h2>
-            <p>
-              Plant deliver effortless, all-day audio on the go.
-            </p>
-            <a href="article?article_id=1" class="styled-btn">
-              ORDER NOW
-            </a>
-          </div>
-          <div class="special-offer-img">
-            <img src="imgs/special_offers/landotbien_offer.png" alt="">
-          </div>
-        </section>
-      </div>
+      
     </div>
   </main>
   <script>

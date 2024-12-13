@@ -127,7 +127,7 @@
             </form>
           </div>
         </section>
-        <!-- special offer -->
+        <!-- galaxy s9 special offer -->
         <section id="s9-special-offer" class="special-offer">
           <div class="special-offer-img">
             <img src="imgs/special_offers/cay_offer.png" alt="">

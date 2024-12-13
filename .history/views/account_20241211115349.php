@@ -127,10 +127,10 @@
             </form>
           </div>
         </section>
-        <!-- special offer -->
+        <!-- galaxy s9 special offer -->
         <section id="s9-special-offer" class="special-offer">
           <div class="special-offer-img">
-            <img src="imgs/special_offers/cay_offer.png" alt="">
+            <img src="imgs/special_offers/s9_special_offer.png" alt="">
           </div>
           <div class="special-offer-text">
             <h2>Cay</h2>
@@ -142,19 +142,19 @@
             </a>
           </div>
         </section>
-        <!-- cay special offer -->
-        <section id="special-offer" class="special-offer">
+        <!-- airpods special offer -->
+        <section id="airpods-special-offer" class="special-offer">
           <div class="special-offer-text">
-            <h2>Cay canh</h2>
+            <h2>AirPods Pro</h2>
             <p>
-              Plant deliver effortless, all-day audio on the go.
+              AirPods deliver effortless, all-day audio on the go.
             </p>
             <a href="article?article_id=1" class="styled-btn">
               ORDER NOW
             </a>
           </div>
           <div class="special-offer-img">
-            <img src="imgs/special_offers/landotbien_offer.png" alt="">
+            <img src="imgs/special_offers/airpods_special_offer.png" alt="">
           </div>
         </section>
       </div>
